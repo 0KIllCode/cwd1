@@ -1,4 +1,10 @@
-.p{
+p{
   font-family: Serif;
 }
+
+h2 {
+background-color: gray;
+color: blue;
+}
+
 /* Comment*/
